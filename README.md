@@ -43,9 +43,9 @@ Sistema embarcado utilizando sensores para auxílio à locomoção, explorando a
 
 ## 📈 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mozartDemarias&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=mozartDemarias&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mozartDemarias&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mozartDemarias&layout=compact&theme=radical)
 
 ---
 
