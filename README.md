@@ -37,7 +37,7 @@ Colaboração no desenvolvimento de ferramentas de gestão digital e catálogos 
 
 ### 📡 Navegação Assistiva com Hardware
 Sistema embarcado utilizando sensores para auxílio à locomoção, explorando a integração entre software e hardware.
-`C/C++` `Embedded Systems` `Hardware Logic`
+`Python` `Embedded Systems` `Hardware Logic`
 
 ---
 
